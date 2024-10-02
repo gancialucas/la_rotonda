@@ -4,7 +4,7 @@
 Este proyecto tiene como objetivo el desarrollo de un sistema de gestión de ventas para el minimarket "La Rotonda". El sistema permite registrar productos mediante un escáner, gestionar el stock en cada venta, manejar turnos y aceptar múltiples medios de pago. El proyecto fue diseñado para mejorar la eficiencia operativa del minimarket, asegurando un control detallado de las ventas y el stock en tiempo real.
 
 ### Tecnologías Utilizadas
-* Frontend: EJS, CSS
+* Frontend: SWING
 * Backend: Java
 * Base de Datos: MySQL
 * Diagrama de Despliegue UML: Describiendo la infraestructura de red para el proyecto, con la base de datos y el servidor de aplicación.
