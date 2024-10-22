@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo el desarrollo de un sistema de gestión de ven
 ### Tecnologías Utilizadas
 * Backend: Java
 * Base de Datos: MySQL
-  * Recomendación: Utilizar PhpMyAdmin por medio de XAMPP para la óptima ejecuación.
+  * Recomendación: Utilizar PhpMyAdmin por medio de [XAMPP](https://www.apachefriends.org/download.html) para la óptima ejecuación.
 * Diagrama de Despliegue UML: Describiendo la infraestructura de red para el proyecto, con la base de datos y el servidor de aplicación.
 * IDE utilizado en la elaboración del proyecto:
   * [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
