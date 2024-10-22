@@ -47,6 +47,3 @@ La etapa de pruebas del sistema incluye los siguientes artefactos:
 * Modelo de pruebas: Comprende los casos de prueba, procedimientos y componentes a evaluar.
 * Tratamiento de defectos: Establece las estrategias para la detección y resolución de errores.
 * Evaluación de pruebas: Analiza la efectividad del sistema basado en los resultados obtenidos de las pruebas.
-
-### Plan de Pruebas
-Se ha diseñado un plan de pruebas para los casos de uso más relevantes del sistema (CU02, CU04, CU06, CU07, CU10). Cada uno de estos casos se aborda con pruebas de componentes y de sistema, empleando técnicas como la cobertura y la partición de equivalencia.
