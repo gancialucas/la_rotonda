@@ -49,3 +49,6 @@ La etapa de pruebas del sistema incluye los siguientes artefactos:
 * Modelo de pruebas: Comprende los casos de prueba, procedimientos y componentes a evaluar.
 * Tratamiento de defectos: Establece las estrategias para la detección y resolución de errores.
 * Evaluación de pruebas: Analiza la efectividad del sistema basado en los resultados obtenidos de las pruebas.
+
+### Video
+* Link: https://drive.google.com/file/d/1_jB-2GcMgez7J-_4by5bGyDAcwgbmtuk/view?usp=drive_link
